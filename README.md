@@ -45,3 +45,14 @@ So you are generated multiple files or folder
 ## 📌 Note
 This is first stable version (v1.0.0)
 More features coming soon.
+
+
+
+## 🔎 Keywords (SEO)
+
+multiple folder creation tool  
+file automation software  
+windows folder creator  
+batch folder generator  
+folder automation app  
+file management tool for windows
