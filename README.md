@@ -1,6 +1,18 @@
 ✔ Folder Explorer Creator v1.0.0
+<p align="center">
+  🔥 Simple Folder Tool for Windows 🔥
+</p>
+<p align="center">
 
----
+<a href="https://github.com/Sakibhaudhary/Folder-Explorer-Creator/releases/latest">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Latest-blue?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/USERNAME/REPO/releases/download/v1.0.0/setup.exe">
+  <img src="https://img.shields.io/badge/Download%20EXE-green?style=for-the-badge&logo=windows" />
+</a>
+
+</p>
 
 ## 📌 Features
 - Fast and multiple folder files creation tool
