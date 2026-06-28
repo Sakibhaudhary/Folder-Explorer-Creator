@@ -5,16 +5,14 @@
 <p align="center">
 
 <a href="https://github.com/Sakibhaudhary/Folder-Explorer-Creator/releases/latest">
-  <img src="https://img.shields.io/badge/⬇️%20Download%20Latest-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Latest%20Release-v1.0.0-blue?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/Sakibhaudhary/Folder-Explorer-Creator/releases/FolderExplorerCreator_Setup_v1.0.0.exe
-">
-  <img src="https://img.shields.io/badge/Download%20EXE-green?style=for-the-badge&logo=windows" />
+<a href="https://github.com/Sakibhaudhary/Folder-Explorer-Creator/releases/download/v1.0.0/FolderExplorerCreator_Setup_v1.0.0.exe">
+  <img src="https://img.shields.io/badge/Download%20Setup%20(EXE)-green?style=for-the-badge&logo=windows" />
 </a>
 
 </p>
-
 ## 📌 Features
 - Fast and multiple folder files creation tool
 - Simple UI installer
